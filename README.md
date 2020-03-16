@@ -1,2 +1,2 @@
 # WeatherGuess
-JS Learning project, to run it, only download it and run a live server, it will run properly
+JS Learning project, to run it. you just need to download it and run a live server, it will run properly
